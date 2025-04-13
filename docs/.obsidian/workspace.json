@@ -15,7 +15,7 @@
               "state": {
                 "file": "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 416.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b338975fbf71006a",
+  "active": "a4a0b9836e840e03",
   "lastOpenFiles": [
-    "Jobseeking/Applications/JustIT - Software Development Technical Trainer.md",
-    "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
     "Diary/2025/April/Sunday 13.md",
+    "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
+    "Jobseeking/Applications/Job_Descriptions/Multiverse - Tech Program Coach.md",
+    "Jobseeking/Applications/Job_Descriptions",
+    "Jobseeking/Applications/JustIT - Software Development Technical Trainer.md",
     "Jobseeking/Commitments/Work plan.md",
     "Development/Portfolio.md",
     "_Templates/Diary Template.md",
@@ -228,7 +230,6 @@
     "Jobseeking/Commitments",
     "Jobseeking",
     "Development",
-    "+Templates",
     "Welcome.md"
   ]
 }

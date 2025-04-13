@@ -3,9 +3,13 @@ tags:
   - Job_Interview
 ---
 ## Premise
-After my commitments review with [^1]JCP on 27/03/2025 (see [Work plan](../Commitments/Work%20plan.md)), I felt it important to try again at Multiverse, the feeling of "what if" lingered from when I applied in 2022 and although imposter syndrome has been creeping in recently; with my newfound free-time, now prioritised as job seeking time, I thought it wise to reach out to an old manager/friend Andy Bolton on 09/04/2025. My timing was impeccable as Multiverse has started hiring recently, he talked me through a few options and gave me a run-down of the Roles, after which he asked me for a CV to attach to the application. There was another role but it has not been made available to apply for yet... more information promised as Andy has said that he'll need to ask about it more.
+After my commitments review with [^1]JCP on 27/03/2025 (see [Work plan](../Commitments/Work%20plan.md)), I thought it wise to reach out to an old manager/friend Andy B on 09/04/2025. 
+
+My timing was impeccable as Multiverse has started hiring, he talked me through a few options and gave me a run-down of the roles I'd be suitable for, after which he asked me for a CV to attach to the application. 
+
+There was another role but it has not been made available to apply for yet... more information promised as Andy has said that he'll need to ask about it more and get back to me.
 ## Outcome
-The following day (10/04/2025) I received an email from Rubina Begum at [^2]MV saying the following
+The following day (10/04/2025) I received an email from Rubi B at [^2]MV saying the following
 ### Email
 
 > Hi Daniel,
@@ -23,13 +27,9 @@ The following day (10/04/2025) I received an email from Rubina Begum at [^2]MV s
 > In preparation for our call, I'd recommend that you spend some time understanding our [mission](https://www.multiverse.io/en-GB/about) and [values](https://www.multiverse.io/en-GB/blog/our-multiverse-values), as well as review the following resources:
 > 
 > - [Multiverse Careers](https://www.multiverse.io/en-GB/careers)
->     
 > - [How we hire at Multiverse](https://youtu.be/M5GlmYY-S8U?si=zP1dtOojGUZN65kn)
->     
 > - [Our Tech Vision](https://www.youtube.com/watch?v=80tsGkqmfbE)
->     
 > - [Our Learning Vision](https://www.youtube.com/watch?v=-vfVSpO3GQI)
->     
 > 
 > I'm looking forward to speaking with you!
 > 

@@ -1,1 +1,1 @@
-Pennywise is a finance management app written with NextJS and 
+Pennywise is a finance management app written with NextJS and Prisma to help manage incomes and bills.

@@ -11,14 +11,14 @@
             "id": "29eaa1a401653982",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
-                "mode": "source",
-                "source": false
+                "aFile": "docs/.obsidian/workspace.json",
+                "bFile": "docs/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Multiverse - Tech Programme Coach (Launch Coach)"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Multiverse - Tech Programme Coach (Launch Coach)"
+              "title": "Backlinks"
             }
           },
           {
@@ -141,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Multiverse - Tech Programme Coach (Launch Coach)"
+              "title": "Outline"
             }
           },
           {
@@ -196,9 +194,9 @@
   },
   "active": "29eaa1a401653982",
   "lastOpenFiles": [
+    "Jobseeking/Applications/JustIT - Software Development Technical Trainer.md",
     "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
     "Diary/2025/April/Sunday 13.md",
-    "Jobseeking/Applications/JustIT - Software Development Technical Trainer.md",
     "Jobseeking/Commitments/Work plan.md",
     "Development/Portfolio.md",
     "_Templates/Diary Template.md",

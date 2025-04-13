@@ -15,6 +15,7 @@ Rejected by Just IT recruiting team due to lack of teaching qualification
 Find route into teaching, potentially look at further training for better ops
 
 ## Job Description
+```md
 ### Position Overview
 
 ==You will be responsible for the delivery of Technical Software Training in both Apprenticeships and Skills Bootcamps==. This role will entail predominantly training learners that are looking to start their career path as a Software Developer. The training will involve ==instructor-led remote delivery via Microsoft Teams==.
@@ -94,3 +95,4 @@ Or working towards in the first 6 months
 	Or
 - Level above what level they will be teaching in the relevant subject area
 - Additional technical certificates to show competence of job role
+```

@@ -3,7 +3,7 @@ tags:
   - Job_Unsucessful
 share: "true"
 ---
-![Software Development Technical Trainer - Training - Just IT Mar 25 (1) (002)](./Software%20Development%20Technical%20Trainer%20-%20Training%20-%20Just%20IT%20Mar%2025%20(1)%20(002).docx.md)
+![[Software Development Technical Trainer - Training - Just IT Mar 25 (1) (002).docx]]
 
 ## Premise
 Approached by Sarah Lampkin from SLS Recruitment on Mar 27 via LinkedIn

@@ -6,7 +6,7 @@ tags:
 ## Premise
 Approached by Sarah Lampkin from SLS Recruitment on Mar 27 via LinkedIn
 ## Outcome
-Didn't go to interview
+Didn't get an interview
 Rejected by Just IT recruiting team due to lack of teaching qualification
 
 ## Actions

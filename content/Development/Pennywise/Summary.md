@@ -1,0 +1,1 @@
+Pennywise is a finance management app written with NextJS and 

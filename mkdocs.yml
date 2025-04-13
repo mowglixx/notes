@@ -6,7 +6,12 @@ theme:
 plugins:
   - search  # Material for MkDocs search plugin
   - pub-blog
-  - pub-obsidian
+  - pub-obsidian:
+    obsidian_dir: .obsidian
+    templates_dir: _templates
+    links:
+      wikilinks_enabled: true
+      img_lazy: true
   - pub-social
   - pub-meta
   - pub-minifier

@@ -3,7 +3,7 @@ publish: true
 ---
 # Welcome to My Notes
 
-I use [Obsidian](https://obsidian.md) to write [this repo](https://github.com/mowglixx/notes) feel free to read on GitHub.
+I use [Obsidian](https://obsidian.md) to write [this repo](https://github.com/mowglixx/notes) and use Quartz to publish to GitHub Pages feel free to read on GitHub.
 
 ## Who is this for?
 

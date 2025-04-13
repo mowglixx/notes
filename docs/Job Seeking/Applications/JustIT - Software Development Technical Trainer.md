@@ -2,6 +2,8 @@
 tags:
   - Job_Unsucessful
 publish: true
+title: JustIT - Software Development Technical Trainer
+slug: justit-software-dev-technical-trainer
 ---
 ![[Software Development Technical Trainer - Training - Just IT Mar 25 (1) (002).docx]]
 

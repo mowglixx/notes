@@ -1,9 +1,10 @@
 ---
 publish: true
+title: Welcome to My Notes
 ---
-# Welcome to My Notes page
+# Welcome to My Notes
 
-I use Obsidian to write [this repo](https://github.com/mowglixx/notes) feel free to read on GitHub.
+I use [Obsidian](https://obsidian.md) to write [this repo](https://github.com/mowglixx/notes) feel free to read on GitHub.
 
 ## Who is this for?
 

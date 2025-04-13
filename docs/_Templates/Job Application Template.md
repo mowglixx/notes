@@ -1,7 +1,9 @@
 ---
-publish: 
 tags:
   - Job_Applied
+publish: true
+title: ""
+slug: ""
 ---
 
 ## Premise

@@ -2,6 +2,8 @@
 tags:
   - Job_JCP
 publish: true
+title: Jobcenter Plus Work Plan
+slug: jcp-workplan
 ---
 Updated by an agent on 27 March 2025
 

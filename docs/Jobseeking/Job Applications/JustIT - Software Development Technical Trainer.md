@@ -1,7 +1,7 @@
 ---
 tags:
   - Job_Unsucessful
-share: "true"
+publish: true
 ---
 ![[Software Development Technical Trainer - Training - Just IT Mar 25 (1) (002).docx]]
 

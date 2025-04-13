@@ -1,6 +1,7 @@
 ---
 tags:
   - Job_JCP
+publish: true
 ---
 Updated by an agent on 27 March 2025
 

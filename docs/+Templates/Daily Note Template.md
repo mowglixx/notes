@@ -1,3 +1,8 @@
+---
+publish: true
+tags:
+  - Diary_Entry
+---
 
 ## Vibe Check
 ### How do you feel today?

@@ -6,24 +6,29 @@ publish: true
 
 ## Vibe Check
 ### How do you feel today?
-Motivated
+Motivated, Nervous
 ### What would make you happy today?
 Feel confident about upcoming interview, see [[Multiverse - Tech Programme Coach (Launch Coach)]]
 ## Today's Goals
 
-Do a minimum of 4 things from top to lowest priority with a time estimate
+*Do a minimum of 4 things from top to lowest priority with a time estimate*
 
-- ~~Study Multiverse Mission Values~~
-- ~~Make MkDocs / some other CMS work from Obsidian~~
-- Watch a film with Sian
-- Fold Clothes
+- ~~Study Multiverse Mission Values~~ (2 hours)
+- ~~Make MkDocs / some other CMS work from Obsidian~~ (1.5 hours)
+	- Went with [Quartz](https://quartz.jzhao.xyz/)
+- Watch a film with Sian (2.5 Hours)
+- Fold Clothes (30 mins)
 ## Today's Opportunities
 
-- time, I have plenty of time to do things today with little distraction.
-I have an opportunity to improve my knowledge of Multiverse and the role I have applied for 
+- Time, I have plenty of time to do things today with little distraction.
+- improve knowledge 
+	- Multiverse 
+	- The role I have applied for 
 ## Today's Blockers
 
-- Distraction, wasting time on the mkdocs setup on github
+- Distraction, wasting time on the MkDocs setup on GitHub instead of looking into purpose made tools, namely Quartz
 ## Todays Outcome
 
-{{REPLACEME}}
+- Quartz has been setup and is deployed to [mowglixx.github.io/notes](https://mowglixx.github.io/notes)
+	- MkDocs broke backlinks and other 
+

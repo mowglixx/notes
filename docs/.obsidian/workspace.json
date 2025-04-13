@@ -1,89 +1,50 @@
 {
   "main": {
-    "id": "9e5f070862bad534",
+    "id": "7ea8ab03d7e8f9e9",
     "type": "split",
     "children": [
       {
-        "id": "a9b1269f43a3f702",
+        "id": "8b4558073e35bb36",
         "type": "tabs",
         "children": [
           {
-            "id": "6fb64a5cdc871a41",
+            "id": "b2c0b596fcb2f9d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Job Seeking/Applications/Job Descriptions/Multiverse - Tech Program Coach.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Multiverse - Tech Program Coach"
-            }
-          },
-          {
-            "id": "b1aba4fd527c7f48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Job Seeking/Applications/Job Descriptions/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "717ce4401f8fbc11",
+    "id": "276afbec6b53f4b9",
     "type": "split",
     "children": [
       {
-        "id": "83c108b80b6cf1d4",
+        "id": "5fc31506526bfd86",
         "type": "tabs",
         "children": [
           {
-            "id": "a25e67d83484a425",
+            "id": "0d1c19eaf394a924",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "09c00ba997c43fe5",
+            "id": "938aa2aedc9f441f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -100,7 +61,7 @@
             }
           },
           {
-            "id": "aa1ce384d8c251c9",
+            "id": "ebd3c6954a69bb13",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -113,18 +74,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 300
   },
   "right": {
-    "id": "2f988a0c583eaaa4",
+    "id": "d651f79951c9121e",
     "type": "split",
     "children": [
       {
-        "id": "41ae20a44bad1369",
+        "id": "6ba5856065d51dfd",
         "type": "tabs",
         "children": [
           {
-            "id": "9e72925e7db714a7",
+            "id": "20e9509ab566a2d8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -142,7 +103,7 @@
             }
           },
           {
-            "id": "4ec41dba0b54bdd1",
+            "id": "cfb2f1f291cd85b8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -155,7 +116,7 @@
             }
           },
           {
-            "id": "ceeb469308c9cf66",
+            "id": "2732b36cd5fba134",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -170,50 +131,25 @@
             }
           },
           {
-            "id": "c8c8df112553bb14",
+            "id": "331bedc3e110e23c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "fe48a01c42c5cdb6",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "a4a0b9836e840e03",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,41 +158,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a25e67d83484a425",
-  "lastOpenFiles": [
-    "Job Seeking/README.md",
-    "_Templates/README.md",
-    "Job Seeking/Applications/Job Descriptions/README.md",
-    "Job Seeking/Applications/Job Descriptions/Multiverse - Tech Program Coach.md",
-    "Job Seeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
-    "Job Seeking/Commitments/Work plan.md",
-    "Job Seeking/Applications/JustIT - Software Development Technical Trainer.md",
-    "().md",
-    "index.md",
-    "_Templates/Job Application Template.md",
-    "Diary/2025/April/Sunday 13.md",
-    "Job Seeking/Applications/Job Descriptions",
-    "Development/Portfolio.md",
-    "_Templates/Diary Template.md",
-    "_Templates",
-    "+Templates/Job Application Template.md",
-    "+Templates/Daily Note Template.md",
-    "Pasted image 20250413153501.png",
-    "Software Development Technical Trainer - Training - Just IT Mar 25 (1) (002).docx",
-    "Jobseeking/Social/recruiters/SLS Recruitment/Sarah Lampkin.md",
-    "Jobseeking/Social/recruiters/SLS Recruitment/+Business.md",
-    "Jobseeking/Social/recruiters/SLS Recruitment",
-    "Jobseeking/Social/recruiters",
-    "Jobseeking/Social",
-    "Job Seeking/Applications",
-    "Job Seeking/Commitments",
-    "Job Seeking",
-    "Development",
-    "Welcome.md"
-  ]
+  "active": "b2c0b596fcb2f9d7",
+  "lastOpenFiles": []
 }

@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/mowglixx",
+      LinkedIn: "https://www.linkedin.com/in/mowglixx"
     },
   }),
 }
@@ -21,6 +21,9 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
+    Component.MobileOnly(Component.TableOfContents({
+      layout: "modern"
+    })),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),

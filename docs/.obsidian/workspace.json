@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/README.md",
+                "file": "Job Seeking/Applications/Job Descriptions/Multiverse - Tech Program Coach.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Multiverse - Tech Program Coach"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/README.md",
+                "file": "Job Seeking/Applications/Job Descriptions/Multiverse - Tech Program Coach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Multiverse - Tech Program Coach"
             }
           },
           {
@@ -151,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/README.md",
+                "file": "Job Seeking/Applications/Job Descriptions/Multiverse - Tech Program Coach.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Multiverse - Tech Program Coach"
             }
           },
           {
@@ -206,11 +206,11 @@
   },
   "active": "6fb64a5cdc871a41",
   "lastOpenFiles": [
+    "Job Seeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
+    "Job Seeking/Commitments/Work plan.md",
+    "Job Seeking/Applications/JustIT - Software Development Technical Trainer.md",
     "_Templates/README.md",
     "().md",
-    "Job Seeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
-    "Job Seeking/Applications/JustIT - Software Development Technical Trainer.md",
-    "Job Seeking/Commitments/Work plan.md",
     "index.md",
     "Job Seeking/README.md",
     "Job Seeking/Applications/Job Descriptions/README.md",

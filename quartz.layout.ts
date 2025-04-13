@@ -40,7 +40,10 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+      useSavedState: false
+    }),
   ],
   right: [
     Component.Graph(),
@@ -64,7 +67,10 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      folderDefaultState: "open",
+      useSavedState: false
+    }),
   ],
   right: [],
 }

@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Multiverse - Tech Program Coach"
             }
+          },
+          {
+            "id": "b1aba4fd527c7f48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Job Seeking/Applications/Job Descriptions/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Job Seeking/Applications/Job Descriptions/Multiverse - Tech Program Coach.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Multiverse - Tech Program Coach"
+              "title": "Backlinks"
             }
           },
           {
@@ -151,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Job Seeking/Applications/Job Descriptions/Multiverse - Tech Program Coach.md",
+                "file": "_Templates/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Multiverse - Tech Program Coach"
+              "title": "Outline of README"
             }
           },
           {
@@ -204,19 +228,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fb64a5cdc871a41",
+  "active": "a25e67d83484a425",
   "lastOpenFiles": [
+    "Job Seeking/README.md",
+    "_Templates/README.md",
+    "Job Seeking/Applications/Job Descriptions/README.md",
+    "Job Seeking/Applications/Job Descriptions/Multiverse - Tech Program Coach.md",
     "Job Seeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
     "Job Seeking/Commitments/Work plan.md",
     "Job Seeking/Applications/JustIT - Software Development Technical Trainer.md",
-    "_Templates/README.md",
     "().md",
     "index.md",
-    "Job Seeking/README.md",
-    "Job Seeking/Applications/Job Descriptions/README.md",
     "_Templates/Job Application Template.md",
     "Diary/2025/April/Sunday 13.md",
-    "Job Seeking/Applications/Job Descriptions/Multiverse - Tech Program Coach.md",
     "Job Seeking/Applications/Job Descriptions",
     "Development/Portfolio.md",
     "_Templates/Diary Template.md",

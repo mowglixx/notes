@@ -16,7 +16,7 @@ Do a minimum of 4 things from top to lowest priority with a time estimate
 - Study Multiverse Mission Values
 - Make MkDocs / some other CMS work from Obsidian
 - Watch a film with Sian
-- Fold Clothe
+- Fold Clothes
 ## Today's Opportunities
 
 Todays opportunities consists mainly of time, I have plenty of time to do things today with little distraction.

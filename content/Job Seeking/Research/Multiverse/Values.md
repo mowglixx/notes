@@ -10,22 +10,33 @@ Our company values were formed by our Founder and CEO, Euan Blair, and are refle
 **
 
 ### We Believe in Equality of Opportunity
-We seek to level the playing field and are guided by fairness as a fundamental principle. It is our North Star, reflected in our mission to create a diverse group of future leaders and governs what we do and don’t do at Multiverse.
+> We seek to level the playing field and are guided by fairness as a fundamental principle. 
+> 
+> It is our North Star, reflected in our mission to create a diverse group of future leaders and governs what we do and don’t do at Multiverse.
 
 ### We treat others as we want to be treated
-We treat those around us with respect and kindness. We never assume bad intent and judge people based on their actions, not on assumptions about their motivation. We act with integrity and think about the impact our actions have on others and strive to be the best version of ourselves.
+> We treat those around us with respect and kindness. 
+> 
+> We never assume bad intent and judge people based on their actions, not on assumptions about their motivation. We act with integrity and think about the impact our actions have on others and strive to be the best version of ourselves.
 
 ### Development is at our core
-We are direct but kind in our feedback and provide it regularly because we want to help people grow and reach their full potential. We believe skills are developed and built and see setbacks as opportunities to adapt and grow. No one should be the same person they were 3 months ago.
+> We are direct but kind in our feedback and provide it regularly because we want to help people grow and reach their full potential. 
+> 
+> We believe skills are developed and built and see setbacks as opportunities to adapt and grow. No one should be the same person they were 3 months ago.
 
 ### We adopt an owner mentality
-We take responsibility for what happens around us and we do the right thing, not the easy thing. We work with great care and skill, sometimes at an uncomfortable speed, energising those around us by the standards we hold.  
+> We take responsibility for what happens around us and we do the right thing, not the easy thing. 
+> 
+> We work with great care and skill, sometimes at an uncomfortable speed, energising those around us by the standards we hold.  
 
 ### We make decisions based on facts and logic
-We understand the fundamentals and facts first, and build our approach from there. We are guided by integrity in the decisions that we make and are solutions oriented. We will not be constrained by what has been done before or trade-offs we don’t need to make.  
+> We understand the fundamentals and facts first, and build our approach from there. 
+> 
+> We are guided by integrity in the decisions that we make and are solutions oriented. 
+> 
+> We will not be constrained by what has been done before or trade-offs we don’t need to make.  
 
-![](https://cdn.sanity.io/images/6y1mknvo/prod-20240319/5891e1bab3477f42d5175ac4c46af2b223d0099e-1440x275.png?w=2560&q=75&fit=clip&auto=format)
-### We fon
-Our mission is serious, and so is our approach to the work we do. But everyone deserves to work in an environment where they can have some fun, share some laughter, and feel unafraid to be themselves.
+### We don't take ourselves too seriously
+> Our mission is serious, and so is our approach to the work we do. But everyone deserves to work in an environment where they can have some fun, share some laughter, and feel unafraid to be themselves.
 
-Our values are embedded in our culture and ways of working - allowing us to make the right decisions for Multiverse. From who we hire, to how we talk about career progression and development, and importantly, setting the tone for everyone as we continue in our mission to provide equitable access to economic opportunity, for everyone.
+Our values are embedded in our culture and ways of working - allowing us to make the right decisions for Multiverse. **From who we hire, to how we talk about career progression and development, and importantly, setting the tone for everyone** as we continue in **our mission to provide equitable access to economic opportunity, for everyone.**

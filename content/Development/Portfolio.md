@@ -2,6 +2,4 @@
 tags:
   - Dev_Portfolio
 ---
-
-# Portfolio
-WIP
+WIP (check back in a few weeks maybe?)

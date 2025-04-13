@@ -30,5 +30,8 @@ Feel confident about upcoming interview, see [[Multiverse - Tech Programme Coach
 ## Todays Outcome
 
 - Quartz has been setup and is deployed to [mowglixx.github.io/notes](https://mowglixx.github.io/notes)
-	- MkDocs broke backlinks and other 
+	- MkDocs broke backlinks 
+	- MkDocs broke folder structure
+	- Quartz was setup in like 10 mins sans customisation time
+- [Mood Board](../../../Job%20Seeking/Research/Multiverse/Research%20Board.canvas)
 

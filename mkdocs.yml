@@ -5,7 +5,6 @@ theme:
     name: dracula
 plugins:
   - search  # Material for MkDocs search plugin
-  - pub-debugger
   - pub-blog
   - pub-obsidian
   - pub-social

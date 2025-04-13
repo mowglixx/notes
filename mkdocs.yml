@@ -5,6 +5,7 @@ theme:
     name: material
 plugins:
   - search  # Material for MkDocs search plugin
+  - pub-blog
   - pub-obsidian
   - pub-social
   - pub-meta

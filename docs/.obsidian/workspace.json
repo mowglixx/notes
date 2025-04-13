@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+Diary/2025/April/Sunday 13.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunday 13"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+Diary/2025/April/Sunday 13.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sunday 13"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+Diary/2025/April/Sunday 13.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sunday 13"
+              "title": "Outline of index"
             }
           }
         ],
@@ -169,14 +169,17 @@
   },
   "active": "29eaa1a401653982",
   "lastOpenFiles": [
+    "Jobseeking/Job Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
+    "Jobseeking/Job Applications/JustIT - Software Development Technical Trainer.md",
+    "Jobseeking/Commitments/Work plan.md",
+    "index.md",
+    "+Diary/2025/April/Sunday 13.md",
+    "_Templates/Job Application Template.md",
+    "_Templates/Daily Note Template.md",
+    "_Templates",
     "+Templates/Job Application Template.md",
     "+Templates/Daily Note Template.md",
-    "+Diary/2025/April/Sunday 13.md",
     "Development/Portfolio.md",
-    "Jobseeking/Commitments/Work plan.md",
-    "Jobseeking/Job Applications/JustIT - Software Development Technical Trainer.md",
-    "Jobseeking/Job Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
-    "index.md",
     "Pasted image 20250413153501.png",
     "Software Development Technical Trainer - Training - Just IT Mar 25 (1) (002).docx",
     "Jobseeking/Social/recruiters/SLS Recruitment/Sarah Lampkin.md",
@@ -189,7 +192,6 @@
     "Jobseeking",
     "Development",
     "+Templates",
-    "+Diary/2025/April",
     "Welcome.md"
   ]
 }

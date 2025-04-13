@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c8caf23b01659844",
+        "id": "d13d1ef024de1a66",
         "type": "tabs",
         "children": [
           {
-            "id": "29eaa1a401653982",
+            "id": "b338975fbf71006a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "docs/.obsidian/workspace.json",
-                "bFile": "docs/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Multiverse - Tech Programme Coach (Launch Coach)"
             }
           }
         ]
@@ -94,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Multiverse - Tech Programme Coach (Launch Coach)"
             }
           },
           {
@@ -140,12 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Multiverse - Tech Programme Coach (Launch Coach)"
             }
           },
           {
@@ -192,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29eaa1a401653982",
+  "active": "b338975fbf71006a",
   "lastOpenFiles": [
     "Jobseeking/Applications/JustIT - Software Development Technical Trainer.md",
     "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",

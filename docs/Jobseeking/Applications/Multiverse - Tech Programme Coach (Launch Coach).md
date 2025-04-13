@@ -44,7 +44,6 @@ Rubi
 I will use the weekend to prepare for the interview using the materials above
 ## Job Description
 
-```md
 #### Tech Programme Coach
 
 We’re on a mission to provide equitable access to economic opportunity, for everyone.
@@ -141,7 +140,6 @@ Do you have the right to work in the UK? Unfortunately, at this time we cannot o
 **Safeguarding**
 
 All posts in Multiverse involve some degree of responsibility for safeguarding. Successful applicants are required to complete a Disclosure Form from the Disclosure and Barring Service ("DBS") for the position. Failure to declare any convictions (that are not subject to DBS filtering) may disqualify a candidate for appointment or result in summary dismissal if the discrepancy comes to light subsequently.
-```
 
 [^1]: Jobcentre Plus
 

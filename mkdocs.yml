@@ -1,3 +1,13 @@
 site_name: Mowglixx's Notebook
+repo_url: https://github.com/mowglixx/notes/
+
 theme:
-    name: dracula
+    name: material
+plugins:
+  - search  # Material for MkDocs search plugin
+  - pub-debugger
+  - pub-blog
+  - pub-obsidian
+  - pub-social
+  - pub-meta
+  - pub-minifier

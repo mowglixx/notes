@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 mkdocs = "*"
 mkdocs-dracula-theme = "*"
+mkdocs-publisher = "*"
 
 [dev-packages]
 

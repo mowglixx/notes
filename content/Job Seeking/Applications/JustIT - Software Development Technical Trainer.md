@@ -1,10 +1,8 @@
 ---
 tags:
   - Job_Unsucessful
-publish: true
-title: JustIT - Software Development Technical Trainer
-slug: justit-software-dev-technical-trainer
 ---
+
 ## Premise
 Approached by Sarah Lampkin from SLS Recruitment on Mar 27 via LinkedIn
 ## Outcome

@@ -1,9 +1,6 @@
 ---
 tags:
   - Job_Interview
-publish: true
-title: Multiverse - Tech Programme Coach (Launch Coach)
-slug: multiverse-launch-coach
 ---
 ## Premise
 After my commitments review with [^1]JCP on 27/03/2025 (see [Work plan](../Commitments/Work%20plan.md)), I felt it important to try again at Multiverse, the feeling of "what if" lingered from when I applied in 2022 and although imposter syndrome has been creeping in recently; with my newfound free-time, now prioritised as job seeking time, I thought it wise to reach out to an old manager/friend Andy Bolton on 09/04/2025. My timing was impeccable as Multiverse has started hiring recently, he talked me through a few options and gave me a run-down of the Roles, after which he asked me for a CV to attach to the application. There was another role but it has not been made available to apply for yet... more information promised as Andy has said that he'll need to ask about it more.

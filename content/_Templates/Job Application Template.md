@@ -2,14 +2,16 @@
 tags:
   - Job_Applied
 publish: true
-title: ""
-slug: ""
 ---
 
 ## Premise
+REPLACEME
 
 ## Outcome
+REPLACEME
 
 ## Actions
+REPLACEME
 
 ## Job Description
+REPLACEME

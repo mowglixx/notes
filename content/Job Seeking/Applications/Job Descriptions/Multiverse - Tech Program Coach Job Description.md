@@ -1,4 +1,4 @@
-**Role: Tech Programme Coach**
+# Role: Tech Programme Coach
 
 We’re on a mission to provide equitable access to economic opportunity, for everyone.
 
@@ -8,7 +8,7 @@ We work with over 1,500 leading companies including the likes of Microsoft, Citi
 
 Join Multiverse and help us set a new course for work.
 
-**The Opportunity**
+## The Opportunity
 
 As a Technical Programme Coach (also known as Launch Coach), you will guide apprentices across multiple clients through the crucial first 60 days (Launch) of their programme, setting them up for success so they can reach their full potential.
 
@@ -16,7 +16,7 @@ Before a learner’s first day of learning at Multiverse, you will partner with 
 
 You will partner with an instructor on the initial programme kick-off meeting, called ‘Flying Start’ at Multiverse. You will guide learners through their launch meetings, setting up the framework for their learning and coaching to get the best out of any workshops and project planning that falls into the first 60 days. You will also assess and monitor apprentice behaviour within their first 60 days, taking decisive action to identify at-risk learners before day 42. Through testing, iteration, early intervention and an eye on any withdrawals where necessary, you'll help maintain program quality standards and protect both financial and reputational outcomes.
 
-**What You'll Do**
+## What You'll Do
 
 - Confidently guiding large groups of apprentices through their exciting first 60 days on their programme with Multiverse and ensuring they are set up for success on all levels, helping their understanding of applying their acquired skills to their job roles.
     
@@ -45,7 +45,7 @@ You will partner with an instructor on the initial programme kick-off meeting, c
 - Create and use with confidence a compelling narrative about Multiverse, our mission, our programmes and the pillars of our offering, and help apprentices connect to it throughout their apprenticeship and beyond.
     
 
-**About You**
+## About You
 
 - 2+ years of professional work experience; ideally 1+ year of experience in a customer service, account management, coaching or education capacity.
     
@@ -68,9 +68,9 @@ You will partner with an instructor on the initial programme kick-off meeting, c
 - You are passionate about delivering the best learning opportunities and supporting others on their development journey.
     
 
-**How We Hire**
+## How We Hire
 
-**Benefits**
+### Benefits
 
 - Time off - 27 days holiday, plus 5 additional days off: 1 life event day, 2 volunteer days and 2 company-wide summer shut-down days and 8 bank holidays per year
     
@@ -83,19 +83,19 @@ You will partner with an instructor on the initial programme kick-off meeting, c
 - Perks: quarterly team socials and winter parties, hybrid working, work from abroad scheme, and more!
     
 
-**Our commitment to Diversity, Equity and Inclusion**
+### Our commitment to Diversity, Equity and Inclusion
 
 We’re an equal opportunities employer. And proud of it. Every applicant and employee is afforded the same opportunities regardless of race, colour, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. This will never change. Read our Equality, Diversity & Inclusion policy [here](https://www.multiverse.io/en-GB/our-policies/equality-diversity-and-inclusion-policy).
 
-**Right to Work**
+### Right to Work
 
 Do you have the right to work in the UK? Unfortunately, at this time we cannot offer sponsorship for this role and we cannot consider overseas applications.
 
-**Safeguarding**
+### Safeguarding
 
 All posts in Multiverse involve some degree of responsibility for safeguarding. Successful applicants are required to complete a Disclosure Form from the Disclosure and Barring Service ("DBS") for the position. Failure to declare any convictions (that are not subject to DBS filtering) may disqualify a candidate for appointment or result in summary dismissal if the discrepancy comes to light subsequently.
 
-### Position Overview
+## Position Overview
 
 You will be responsible for the delivery of Technical Software Training in both Apprenticeships and Skills Bootcamps. This role will entail predominantly training learners that are looking to start their career path as a Software Developer. The training will involve instructor-led remote delivery via Microsoft Teams.
 
@@ -122,7 +122,7 @@ In common with all staff:
 - To contribute to our commitment to continuous improvement as identified in our quality assurance systems
 - To be committed to our safeguarding procedures and high priority to be given to the safeguarding of learners 
 
-#### Responsibilities by area of focus 
+### Responsibilities by area of focus 
 
 - Motivate and encourage learning and development in your learners
 - Recording and reporting on activity to management in a timely and professional manner
@@ -149,26 +149,27 @@ In common with all staff:
 - Candidate Portfolio completions
 - Candidate Progressions to job ready status
 
-#### Training & Development
+### Training & Development
 
 - On-going Personal Development Plan
 - Internal training
 - Training qualifications
-#### Essential Qualifications/Experience
-##### Teaching Qualifications
 
+### Essential Qualifications/Experience
+
+#### Teaching Qualifications
 - PGCE / CertEd / QTS or Level 4 Teaching qualification
 	Or
 - Level 3 Teaching qualification
 - Level 3 Assessors qualification
 
 Or working towards in the first 6 months
-##### Maths & English Qualifications
 
+#### Maths & English Qualifications
 - English Level 2 or above (Includes GCSE A*-C, GCSE 9-4, F/S Level 2/ Key Skills L2 or 3)
 - Maths Level 2 or above (Includes GCSE A*-C, GCSE 9-4, F/S Level 2/ Key Skills L2 or 3)
-##### Technical Competency
 
+#### Technical Competency
 - Degree or higher
 - 2 years industry experience and appropriate qualifications (ECTA)
 	Or

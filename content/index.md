@@ -1,6 +1,5 @@
 ---
 publish: true
-title: Welcome to My Notes
 ---
 # Welcome to My Notes
 

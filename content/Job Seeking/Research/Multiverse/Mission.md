@@ -1,5 +1,5 @@
 
-## WHAT: Mission
+## WHAT: The Mission
 > We provide equitable access to economic opportunity, for everyone
 
 ## HOW: On-the-job learning, at any career stage
@@ -31,3 +31,5 @@ Today, they work with over **1,500** leading companies including the likes of 
 They’ve trained over **16,000** professional apprentices, working with individuals at every career stage to supercharge their careers by learning in-demand tech and data skills. 
 
 This is made possible by their global team who are driven to achieve a mission that matters, together.
+
+

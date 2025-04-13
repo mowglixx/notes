@@ -1,1 +1,3 @@
-site_name: My Notes
+site_name: Mowglixx's Notebook
+theme:
+    name: dracula

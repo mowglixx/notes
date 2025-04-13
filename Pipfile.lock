@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "17838a25ef60d8c1fada2f2ff0e3d26f82d2a3340550013760e07eb4fc628db5"
+            "sha256": "1a2e77ec82b850145ebc02a8229102813f6146bd2fd96eb9ea585624e64a51ab"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -138,6 +138,15 @@
             "index": "pypi",
             "markers": "python_version >= '3.8'",
             "version": "==1.6.1"
+        },
+        "mkdocs-dracula-theme": {
+            "hashes": [
+                "sha256:cb9a6bb7d9d6a958b1a4e7a0e55ba25fd25291cafe284ce3a4307bc609530855",
+                "sha256:fee49784a04b1d8432cd026edcd5333397e0926eeb59be3add0112df5d003682"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.6'",
+            "version": "==1.0.7"
         },
         "mkdocs-get-deps": {
             "hashes": [

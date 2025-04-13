@@ -149,13 +149,37 @@
               "icon": "lucide-list",
               "title": "Outline of Multiverse - Tech Programme Coach (Launch Coach)"
             }
+          },
+          {
+            "id": "fe48a01c42c5cdb6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a4a0b9836e840e03",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 587.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,13 +188,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "29eaa1a401653982",
   "lastOpenFiles": [
-    "Diary/2025/April/Sunday 13.md",
     "Jobseeking/Applications/Multiverse - Tech Programme Coach (Launch Coach).md",
+    "Diary/2025/April/Sunday 13.md",
     "Jobseeking/Applications/JustIT - Software Development Technical Trainer.md",
     "Jobseeking/Commitments/Work plan.md",
     "Development/Portfolio.md",

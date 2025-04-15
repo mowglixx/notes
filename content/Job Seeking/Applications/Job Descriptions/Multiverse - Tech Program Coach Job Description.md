@@ -1,6 +1,6 @@
 # Role: Tech Programme Coach
 
-We’re on a mission to provide equitable access to economic opportunity, for everyone.
+**We’re on a mission to provide equitable access to economic opportunity, for everyone.**
 
 We close critical skill gaps in the workforce through a new kind of apprenticeship that combines work and learning. We begin by recognizing high-potential individuals both inside and outside of a company's current workforce and then we create applied, guided and equitable learning programs, with measurable impact. Because we believe the world needs a better way to match its potential.
 

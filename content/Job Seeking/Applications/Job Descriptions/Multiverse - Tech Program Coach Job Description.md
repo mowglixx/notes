@@ -10,9 +10,9 @@ Join Multiverse and help us set a new course for work.
 
 ## The Opportunity
 
-As a Technical Programme Coach (also known as Launch Coach), you will guide apprentices across multiple clients through the crucial first 60 days (Launch) of their programme, setting them up for success so they can reach their full potential.
+As a Technical Programme Coach (also known as Launch Coach), you will **guide apprentices across multiple clients through the crucial first 60 days (Launch) of their programme**, setting them up for success so they can reach their full potential.
 
-Before a learner’s first day of learning at Multiverse, you will partner with our Implementation team (Go-to-market, Implementation and Admissions) to understand the value the learner and the client want to actualise on the programme, and you will be responsible for driving this in the first 60 days.
+Before a learner’s first day of learning at Multiverse, you will **partner with our Implementation team** (Go-to-market, Implementation and Admissions) to understand the value the learner and the client want to actualise on the programme, and **you will be responsible for driving this in the first 60 days**.
 
 You will partner with an instructor on the initial programme kick-off meeting, called ‘Flying Start’ at Multiverse. You will guide learners through their launch meetings, setting up the framework for their learning and coaching to get the best out of any workshops and project planning that falls into the first 60 days. You will also assess and monitor apprentice behaviour within their first 60 days, taking decisive action to identify at-risk learners before day 42. Through testing, iteration, early intervention and an eye on any withdrawals where necessary, you'll help maintain program quality standards and protect both financial and reputational outcomes.
 
@@ -20,13 +20,13 @@ You will partner with an instructor on the initial programme kick-off meeting, c
 
 - Confidently guiding large groups of apprentices through their exciting first 60 days on their programme with Multiverse and ensuring they are set up for success on all levels, helping their understanding of applying their acquired skills to their job roles.
     
-- Organise a seamless handover after the first 60 days to the learner’s Cohort Coach to ensure a high-quality learner experience.
+- **Organise a seamless handover after the first 60 days to the learner’s Cohort Coach** to ensure a high-quality learner experience.
     
 - Create a vibrant, inclusive, motivating environment that drives apprentice learning, engagement, and satisfaction.
     
 - Master group and individualised coaching techniques to enhance apprentice learning.
     
-- Adhere to the Coach Quality framework to ensure a consistent level of quality for every session and a consistent experience for every apprentice.
+- **Adhere to the Coach Quality framework to ensure a consistent level of quality** for every session and a **consistent experience** for every apprentice.
     
 - Maintain an owner mentality, whether assigned a learner or in support of other coaches, being proactive in taking action, sharing feedback, or providing support to ensure the progress and success of learners.
     

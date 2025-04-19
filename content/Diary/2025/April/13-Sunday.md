@@ -13,7 +13,7 @@ Feel confident about upcoming interview, see [[Multiverse - Tech Programme Coach
 
 *Do a minimum of 4 things from top to lowest priority with a time estimate*
 
-- ~~Study Multiverse Mission Values~~ (2 hours)
+- ~~Study Multiverse [Mission](../../../Job%20Seeking/Research/Multiverse/Mission.md) [Values](../../../Job%20Seeking/Research/Multiverse/Values.md)~~ (2 hours)
 - ~~Make MkDocs / some other CMS work from Obsidian~~ (1.5 hours)
 	- Went with [Quartz](https://quartz.jzhao.xyz/)
 - Watch a film with Sian (2.5 Hours)

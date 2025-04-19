@@ -21,7 +21,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Inria Serif",
+        header: "Inter",
         body: "Inter",
         code: "Source Code Pro",
       },

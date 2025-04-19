@@ -22,7 +22,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Inria Serif",
-        body: "Roboto",
+        body: "Inter",
         code: "Source Code Pro",
       },
       colors: {

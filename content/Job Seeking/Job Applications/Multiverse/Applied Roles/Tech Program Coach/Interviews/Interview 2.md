@@ -17,6 +17,11 @@ The task interview is designed to assess your skills in relation to the Launch C
 > - 15 min: Competency questions
 > - 5 min: Candidate questions & wrap up
 
+## Preparation
+- Call with Andy B on Monday 21/04/25 at 12pm
+- Call with Rubi B on Wednesday 23/04/25 at 2pm
+- Python Data Analysis from CSV
+	- Convert Data to CSV for analysis with Python 
 ## Tasks
 
 ### Task One

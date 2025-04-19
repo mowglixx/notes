@@ -2,6 +2,7 @@
 publish: true
 tags:
   - Diary_Entry
+  - Job_Research
 ---
 
 ## Vibe Check
@@ -29,7 +30,9 @@ Do a minimum of 4 things from top to lowest priority with a time estimate
 
 ## Today's Opportunities
 - Opp to do something nice for family
-- Opp to prepare somewhat for the interview next week
+- Opp to prepare for the interview next week
+	- Ease stress and tension
+	- Have something to talk about on Monday and Wednesday
 
 ## Today's Blockers
 Laziness, oversleeping.

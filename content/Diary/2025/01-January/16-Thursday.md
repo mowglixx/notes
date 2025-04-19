@@ -1,3 +1,8 @@
+---
+tags:
+  - Diary_Entry
+  - Job_Research
+---
 # Whats going on?
 
 JCP have asked me to look for work, the avenues that I'm currently comfortable with pursuing are jobs that I've already worked with a collection of my skills being utilised, in addition to this, I'd like to upskill to potentially transition from Software Dev to DevOps

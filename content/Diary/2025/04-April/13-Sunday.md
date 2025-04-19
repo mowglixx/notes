@@ -1,6 +1,8 @@
 ---
 tags:
   - Diary_Entry
+  - Job_Interview
+  - Job_Research
 publish: true
 ---
 

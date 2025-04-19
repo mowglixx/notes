@@ -2,6 +2,16 @@
 tags:
   - Job_Interview
 ---
+## Current State
+
+%% ✅ ⏸️ ❌ %%
+
+|     | Stage                                      | State             |
+| :-: | :----------------------------------------- | :---------------- |
+|  ✅  | [Interview 1](Interviews/Interview%201.md) | Passed            |
+| ⏸️  | [Interview 2](Interviews/Interview%202.md) | Awaiting 24/04/25 |
+|     | Interview 3                                | Not Confirmed     |
+
 ## Premise
 After my commitments review with [^1]JCP on 27/03/2025 (see [Work plan](../../../../Commitments/Work%20plan.md)), I thought it wise to reach out to an old manager/friend Andy B on 09/04/2025. 
 
@@ -44,7 +54,7 @@ The following day (10/04/2025) I received an email from Rubi B at [^2]MV saying 
 I will use the weekend to prepare for the interview using the materials from the email.
 
 ## Job description
-[Tech Program Coach Job Description](index.md)
+See [Tech Program Coach](index.md) for Job description 
 
 [^1]: Jobcentre Plus
 

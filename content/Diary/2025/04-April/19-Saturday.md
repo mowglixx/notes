@@ -7,7 +7,7 @@ tags:
 ## Vibe Check
 
 ### How do you feel today?
-Well, not bad, not good, nervous about Thursday
+Well, not bad, not good, nervous about [Thursday (Interview 2)](../../../Job%20Seeking/Job%20Applications/Multiverse/Applied%20Roles/Tech%20Program%20Coach/Interviews/Interview%202.md)
 
 ### What would make you happy today?
 Sorting Easter Eggs out for the kids
@@ -15,7 +15,7 @@ Sorting Easter Eggs out for the kids
 ## Today's Goals
 Do a minimum of 4 things from top to lowest priority with a time estimate
 
-- Get Easter Eggs for Ryan and Nathan from gran and us
+- ~~Get Easter Eggs for Ryan and Nathan from gran and us~~
 - Test Fedora for steam gaming
 - read through task for MV interview (see [Application Progress](../../../Job%20Seeking/Job%20Applications/Multiverse/Applied%20Roles/Tech%20Program%20Coach/Application%20Progress.md))
 	- look for: 

@@ -13,4 +13,4 @@ Anybody that would like to know what I'm up to, this could be friends checking i
 
 ## Get Started
 
-Currently there is one zone of interest until I have the time for personal projects again, [Job Seeking](/notes/Job-Seeking/)
+Currently there is one zone of interest until I have the time for personal projects again, [Job Seeking](/Job-Seeking/)

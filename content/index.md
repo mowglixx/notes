@@ -1,5 +1,6 @@
 ---
 publish: true
+title: Welcome to My Notes
 ---
 ## Quick note on this site
 I use [Obsidian](https://obsidian.md) to write markdown in [this repo](https://github.com/mowglixx/notes) and use [Quartz](https://github.com/jackyzha0/quartz) to publish to GitHub Pages feel free to read on GitHub.

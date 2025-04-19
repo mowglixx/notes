@@ -89,7 +89,7 @@ At day 35 of an Apprentice’s journey, all Apprentices on programme are evaluat
 This data includes observations from Welcome Meetings (also known as Launch Meetings), attendance and our own internal machine learning risk model. This culminates in a final traffic light system where green level means no issue found, amber being some risk and red being high risk.
 
 ##### Your task
-- Investigate the data provided and identify which of the Apprentices require extra attention Launch Coach - Take Home Task Data [Please create a copy of this sheet so that you can make edits to it]
+- Investigate the data provided and identify which of the Apprentices require extra attention Launch Coach - Take Home Task Data [Please create a copy of this sheet so that you can make edits to it](#Task)
 - Bucket the apprentices into the following categories:
 	- Non-start
 	- Discussion with apprentice and manager to create an action plan to bring up to speed

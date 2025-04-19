@@ -11,7 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "Mowglixx's Notes",
     pageTitleSuffix: "All my nots... bar a few",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: null,
     locale: "en-GB",
     baseUrl: "mowglixx.github.io/notes",

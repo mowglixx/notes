@@ -10,3 +10,7 @@ If a link is broken for this site, please [open an issue](https://github.com/mow
 ## Who is this for?
 
 Anybody that would like to know what I'm up to, this could be friends checking in in or professionals looking to further their knowledge in an unfamiliar landscape, this will be the journal that ~~finally~~ persists... maybe, sometimes... if i feel like it... 
+
+## Get Started
+
+Currently there is one zone of interest until I have the time for personal projects again, [Job Seeking](/notes/Job-Seeking/)

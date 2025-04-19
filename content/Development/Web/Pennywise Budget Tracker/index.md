@@ -1,5 +1,5 @@
 ---
-title: Details
+title: Pennywise budget Tracker
 publish: true
 tags:
   - Dev_Portfolio

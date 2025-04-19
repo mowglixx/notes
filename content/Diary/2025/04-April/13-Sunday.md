@@ -8,12 +8,12 @@ publish: true
 ### How do you feel today?
 Motivated, Nervous
 ### What would make you happy today?
-Feel confident about upcoming interview, see [[Multiverse - Tech Programme Coach (Launch Coach)]]
+Feel confident about upcoming interview, see [[../../../Job Seeking/Job Applications/Multiverse/Applied Roles/Tech Program Coach/Application Progress]]
 ## Today's Goals
 
 *Do a minimum of 4 things from top to lowest priority with a time estimate*
 
-- ~~Study Multiverse [Mission](../../../Job%20Seeking/Research/Multiverse/Mission.md) [Values](../../../Job%20Seeking/Research/Multiverse/Values.md)~~ (2 hours)
+- ~~Study Multiverse [Mission](../../../Job%20Seeking/Job%20Applications/Multiverse/Research/Mission.md) [Values](../../../Job%20Seeking/Job%20Applications/Multiverse/Research/Values.md)~~ (2 hours)
 - ~~Make MkDocs / some other CMS work from Obsidian~~ (1.5 hours)
 	- Went with [Quartz](https://quartz.jzhao.xyz/)
 - Watch a film with Sian (2.5 Hours)
@@ -33,5 +33,5 @@ Feel confident about upcoming interview, see [[Multiverse - Tech Programme Coach
 	- MkDocs broke backlinks 
 	- MkDocs broke folder structure
 	- Quartz was setup in like 10 mins sans customisation time
-- [Mood Board](../../../Job%20Seeking/Research/Multiverse/Research%20Board.canvas)
+- [Mood Board](../../../Job%20Seeking/Job%20Applications/Multiverse/Research/Research%20Board.canvas)
 

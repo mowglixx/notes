@@ -4,7 +4,7 @@ JCP have asked me to look for work, the avenues that I'm currently comfortable w
 
 ## Options
 I have a few options included but not limited to:
-- [Skills Bootcamps](../Jobseeking/Training/Skills%20Bootcamps-1.md)
-- [Personal Learning Accounts](../Jobseeking/Training/Personal%20Learning%20Accounts-1.md) :star:
-- [Apprenticeships](../Jobseeking/Training/Apprenticeships-1.md)
-- [Hybrid Apprenticeships](../Jobseeking/Training/Hybrid%20Apprenticeships-1.md) :star:
+- [Skills Bootcamps](../../../Job%20Seeking/Training/Skills%20Bootcamps.md)
+- [Personal Learning Accounts](../../../Job%20Seeking/Training/Personal%20Learning%20Accounts.md) :star:
+- Apprenticeships
+- [Hybrid Apprenticeships](../../../Job%20Seeking/Training/Hybrid%20Apprenticeships.md) :star:

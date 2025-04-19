@@ -1,10 +1,12 @@
-# Role: Tech Programme Coach
-
-**We’re on a [mission](../../Research/Multiverse/Mission.md) to provide equitable access to economic opportunity, for everyone.**
+---
+title: Tech Programme Coach
+publish: true
+---
+**We’re on a [mission](../../Research/Mission.md) to provide equitable access to economic opportunity, for everyone.**
 
 We close critical skill gaps in the workforce through a new kind of apprenticeship that combines work and learning. We begin by recognizing high-potential individuals both inside and outside of a company's current workforce and then we create applied, guided and equitable learning programs, with measurable impact. Because we believe the world needs a better way to match its potential.
 
-We work with over 1,500 leading companies including the likes of Microsoft, Citi and Just Eat to help solve their business-critical problems, and we’ve trained over 16,000 professional apprentices in the tech and data skills of the future. This is made possible by our global team who are driven to achieve a [mission](../../Research/Multiverse/Mission.md) that matters, together.
+We work with over 1,500 leading companies including the likes of Microsoft, Citi and Just Eat to help solve their business-critical problems, and we’ve trained over 16,000 professional apprentices in the tech and data skills of the future. This is made possible by our global team who are driven to achieve a [mission](../../Research/Mission.md) that matters, together.
 
 Join Multiverse and help us set a new course for work.
 
@@ -42,7 +44,7 @@ You will partner with an instructor on the initial programme kick-off meeting, c
     
 - Build and maintain credibility with your apprentices by utilising a mixture of professional experience, program/domain/industry knowledge and client context in your interactions.
     
-- Create and use with confidence a compelling narrative about Multiverse, our [mission](../../Research/Multiverse/Mission.md), our programmes and the pillars of our offering, and help apprentices connect to it throughout their apprenticeship and beyond.
+- Create and use with confidence a compelling narrative about Multiverse, our [mission](../../Research/Mission.md), our programmes and the pillars of our offering, and help apprentices connect to it throughout their apprenticeship and beyond.
     
 
 ## About You
@@ -115,7 +117,7 @@ You will be proficient in a range of technologies and platforms including:
 
 In common with all staff:
 
-- To support our [mission](../../Research/Multiverse/Mission.md), vision, [values](../../Research/Multiverse/Values.md), and strategic objectives
+- To support our [mission](../../Research/Mission.md), vision, [values](../../Research/Values.md), and strategic objectives
 - To implement our Equality and Diversity policies
 - To take responsibility for one’s own professional development and participate in relevant internal and external activities
 - To implement our health and safety policies and practices

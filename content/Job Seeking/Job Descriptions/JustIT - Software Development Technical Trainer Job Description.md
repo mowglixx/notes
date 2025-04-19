@@ -1,4 +1,4 @@
-### Position Overview
+## Position Overview
 
 You will be responsible for the delivery of Technical Software Training in both Apprenticeships and Skills Bootcamps. This role will entail predominantly training learners that are looking to start their career path as a Software Developer. The training will involve instructor-led remote delivery via Microsoft Teams.
 
@@ -14,7 +14,7 @@ You will be proficient in a range of technologies and platforms including:
 - Database e.g., SQL
 - Python 
 
-### Responsibilities
+## Responsibilities
 
 In common with all staff:
 
@@ -25,7 +25,7 @@ In common with all staff:
 - To contribute to our commitment to continuous improvement as identified in our quality assurance systems
 - To be committed to our safeguarding procedures and high priority to be given to the safeguarding of learners 
 
-#### Responsibilities by area of focus 
+### Responsibilities by area of focus 
 
 - Motivate and encourage learning and development in your learners
 - Recording and reporting on activity to management in a timely and professional manner
@@ -36,42 +36,41 @@ In common with all staff:
 - Ensuring that Just IT Training is perceived within the market as a high-quality provider of learning
 - To respond to learners within 48 hours of them requesting feedback/support on their project work portfolio
 
-### Candidate Requirements
+## Candidate Requirements
 
 - Highly motivated, persuasive, persistent, and patient
 - Be professional, have a mature personality and be able to gain people's confidence and put them at ease
 - Experience in developing learner progression through a series of learning stages
 - Team player – willing to contribute to the business unit and not solely focused on their own personal goals
-- This role is heavily focussed on training, assessment, reporting and development. The ability to provide effective feedback is essential
+- This role is heavily focused on training, assessment, reporting and development. The ability to provide effective feedback is essential
 - Excellent communicator
 - Good initiative
 - Have good administrative skills, be flexible, adaptable and be able to cope under pressure
 
-### Key Measurables
-- Survey Net Promotor Score
+## Key Measurables
+- Survey Net Promoter Score
 - Candidate Portfolio completions
 - Candidate Progressions to job ready status
 
-#### Training & Development
-
+## Training & Development
 - On-going Personal Development Plan
 - Internal training
 - Training qualifications
-#### Essential Qualifications/Experience
-##### Teaching Qualifications
 
+### Essential Qualifications/Experience
+#### Teaching Qualifications
 - PGCE / CertEd / QTS or Level 4 Teaching qualification
 	Or
 - Level 3 Teaching qualification
 - Level 3 Assessors qualification
 
 Or working towards in the first 6 months
-##### Maths & English Qualifications
 
+#### Maths & English Qualifications
 - English Level 2 or above (Includes GCSE A*-C, GCSE 9-4, F/S Level 2/ Key Skills L2 or 3)
 - Maths Level 2 or above (Includes GCSE A*-C, GCSE 9-4, F/S Level 2/ Key Skills L2 or 3)
-##### Technical Competency
 
+#### Technical Competency
 - Degree or higher
 - 2 years industry experience and appropriate qualifications (ECTA)
 	Or

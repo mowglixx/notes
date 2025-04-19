@@ -19,7 +19,7 @@ You could:
 - find new business opportunities if you're self-employed
 - **<abbr title="Jobcentre Plus">JCP</abbr> have asked me to look for work and I'm a little rusty
 
-![Fig 1: Google search result for Skills Bootcamps are available in England but may also be available outside in certain circumstances](../../attachments/642d869e40e0f4a5e50290b8888762d6.png)
+![Fig 1: Google search result for Skills Bootcamps are available in England but may also be available outside in certain circumstances](../../_Attachments/642d869e40e0f4a5e50290b8888762d6.png)
 
 # Requirements
 

@@ -17,7 +17,7 @@ Do a minimum of 4 things from top to lowest priority with a time estimate
 
 - Get Easter Eggs for Ryan and Nathan from gran and us
 - Test Fedora for steam gaming
-- read through task for MV interview (see [Multiverse - Tech Programme Coach (Launch Coach)](../../../Job%20Seeking/Applications/Multiverse%20-%20Tech%20Programme%20Coach%20(Launch%20Coach).md))
+- read through task for MV interview (see [Application Progress](../../../Job%20Seeking/Job%20Applications/Multiverse/Applied%20Roles/Tech%20Program%20Coach/Application%20Progress.md))
 	- look for: 
 		- tricky wording
 		- unknowns
